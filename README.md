@@ -13,5 +13,8 @@
 - Click on Book
 - Enter the IRCTC ID manually (suggetion:ShashidharHiremath)
 - Passanger details page will display click on gender radio button, enter name and age
-- select 
-- 
+- select Berth Preference from drop down and click on SAVE button
+- enter mail ID (sug:shashihiremath444@gmail.com)
+- select free cancellation radio button
+- click on PROCEED
+  
