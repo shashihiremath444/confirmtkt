@@ -6,8 +6,12 @@
 
 
 - Navigating through url-(https://www.confirmtkt.com/rbooking-d/)
-- Enter mobile no and click on get OTP, enter OTP and click
+- Enter mobile no and click on get OTP, enter OTP and click manually (we can't enter the OTP using selenium)
 - enter destination from side which is "SBC - Bangalore City Junction" and enter destination To side "MMCT - Mumbai Central" and click on SEARCH button
 - Date will select to next day
-- Click on 3A from UDYAN EXP
-- Click on Book  
+- Click on 3A in UDYAN EXP
+- Click on Book
+- Enter the IRCTC ID manually (suggetion:ShashidharHiremath)
+- Passanger details page will display click on gender radio button, enter name and age
+- select 
+- 
