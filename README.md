@@ -3,6 +3,7 @@
 
 -Run in IDE eclips(preferred).
 -selenium version: 4.11.0
+-Browser: Chrome
 
 
 - Navigating through url-(https://www.confirmtkt.com/rbooking-d/)
