@@ -40,7 +40,7 @@ public class ConfirmTicket {
 		 driver.findElement(By.xpath("//*[@id=\"3A\"]/div[1]/div/div[3]/div")).click();
 		 Thread.sleep(10000);
 		 
-		 //enter IRCTC ID manually
+		 //enter IRCTC ID manually 
 		 
 		 driver.findElement(By.xpath("//span[text()=\"Male\"]")).click();
 		 
@@ -54,6 +54,7 @@ public class ConfirmTicket {
 		 ddown.selectByVisibleText("Lower Berth");
 		 
 		 driver.findElement(By.xpath("//span[text()=\"Save\"]")).click();
+		 
 		 //once you enter the mailID that one will be saved for particular mobile number
 		 driver.findElement(By.id("email")).sendKeys("shashihiremath444@gmail.com");
 		 driver.findElement(By.xpath("//div[text()=\"Pay no charges when ticket is cancelled\"]")).click();
