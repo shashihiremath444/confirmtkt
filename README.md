@@ -6,3 +6,8 @@
 
 
 - Navigating through url-(https://www.confirmtkt.com/rbooking-d/)
+- Enter mobile no and click on get OTP, enter OTP and click
+- enter destination from side which is "SBC - Bangalore City Junction" and enter destination To side "MMCT - Mumbai Central" and click on SEARCH button
+- Date will select to next day
+- Click on 3A from UDYAN EXP
+- Click on Book  
